@@ -1,0 +1,4 @@
+modelo,acuracia,acuracia_balanceada,precisao_nao_alfabetizado,recall_nao_alfabetizado,f1_nao_alfabetizado,percentual_sinalizado
+Logística C=0.1 | limiar=0.35,0.4945351060038233,0.5546770765306832,0.4361118422384645,0.8654077942948976,0.579959882069439,80.01479625449558
+Referência — classe majoritária do treino,0.59677506453111,0.5,0.0,0.0,0.0,0.0
+Referência — todos sinalizados,0.40322493546889004,0.5,0.40322493546889004,1.0,0.5747117590012777,100.0

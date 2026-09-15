@@ -1,0 +1,5 @@
+faixa_idhm,qtd_alunos,qtd_municipios,idhm_minimo,idhm_maximo,taxa_alfabetizacao_pct
+Q1 · Menor IDHM,15543,962,0.443,0.592,49.70082995560702
+Q2 · IDHM intermediário,18375,968,0.593,0.651,58.53061224489796
+Q3 · IDHM intermediário,22302,956,0.652,0.705,59.18303291184647
+Q4 · Maior IDHM,66710,953,0.706,0.847,60.361265177634536
