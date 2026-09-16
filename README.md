@@ -1,5 +1,12 @@
 # Alfabetização no Brasil
 
+## Acesso aos materiais
+
+- [Vídeo da apresentação (pasta no Drive)](https://drive.google.com/drive/folders/1vR3uchm50H4TjZSuV-B2_jNBKwgWJ0k3?usp=sharing)
+- [Arquivos do projeto no Google Drive](https://drive.google.com/drive/folders/1bjAF54j57XBVBeoR4DVrMH-Cbjq0osWn?usp=sharing)
+- [Repositório no GitHub](https://github.com/AnaPerchak123/alfabetizacao-brasil)
+
+
 ## Objetivo
 
 Analisar diferenças na alfabetização infantil e avaliar se informações educacionais, territoriais e socioeconômicas permitem prever a classificação de alunos do 2º ano do Ensino Fundamental.
@@ -228,10 +235,10 @@ O notebook é a implementação principal e reúne o fluxo completo. A organiza�
 |---|---|
 | `notebooks/01_analise_modelagem_alfabetizacao.ipynb` | Notebook principal, com código e resultados |
 | `data/` | Orientações sobre Bronze, Silver e Gold e acesso às bases |
-| `src/` | Funções organizadas por preparação, modelagem, avaliação e visualização — publicação pendente |
-| `images/` | Gráficos exportados — publicação pendente |
-| `reports/` | Tabelas de resultados, relatório e apresentação — publicação pendente |
-| `requirements.txt` | Versões das bibliotecas — publicação pendente |
+| `src/` | Espaço reservado para futura organização das funções; implementação atual no notebook |
+| `images/` | Gráficos exportados em PNG e SVG |
+| `reports/` | Tabelas de resultados, relatório e apresentação |
+| `requirements.txt` | Versões das bibliotecas do ambiente utilizado |
 
 As etapas abaixo descrevem a execução do notebook principal. Não é necessário que `src/` esteja preenchida para executar essa implementação.
 
@@ -273,10 +280,10 @@ O ambiente original registrou Python 3.13, pandas 2.2.3 e scikit-learn 1.6.1. As
 
 ## 12. Materiais complementares
 
-- **Relatório técnico:** publicação pendente.
-- **Apresentação de apoio:** publicação pendente.
-- **Vídeo executivo:** link pendente.
-- **Bases e backups no Google Drive:** link pendente.
+- [Relatório técnico](reports/relatorio_alfabetizacao.pdf).
+- [Apresentação de apoio](reports/apresentacao_alfabetizacao.pptx).
+- **Vídeo da apresentação:** [abrir pasta com o vídeo](https://drive.google.com/drive/folders/1vR3uchm50H4TjZSuV-B2_jNBKwgWJ0k3?usp=sharing).
+- **Materiais e backups no Google Drive:** [abrir pasta do projeto](https://drive.google.com/drive/folders/1bjAF54j57XBVBeoR4DVrMH-Cbjq0osWn?usp=sharing).
 
 ## Conclusão
 
@@ -288,7 +295,7 @@ O modelo individual apresentou desempenho limitado, com muitos falsos alertas. A
 
 **Ana Carolina Perchak dos Santos**
 
-Projeto desenvolvido no contexto da pós-graduação, no Tech Challenge da Fase 3, e organizado para apresentação em portfólio.
+Projeto de análise de dados e aprendizado de máquina desenvolvido para portfólio.
 
 ## Referências
 
@@ -298,4 +305,3 @@ Projeto desenvolvido no contexto da pós-graduação, no Tech Challenge da Fase 
 - [Google Colab](https://research.google.com/colaboratory/faq.html)
 - [BigQuery Sandbox](https://docs.cloud.google.com/bigquery/docs/sandbox)
 - [Prevenção de erros e vazamento de dados — scikit-learn](https://scikit-learn.org/stable/common_pitfalls.html)
-
