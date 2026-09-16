@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="759.969609pt" height="428.58pt" viewBox="0 0 759.969609 428.58" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-15T17:20:14.099598</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 428.58 
+L 759.969609 428.58 
+L 759.969609 0 
+L 0 0 
+z
+" style="fill: #faf8f9"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 123.605625 348.84 
+L 737.045625 348.84 
+L 737.045625 105.48 
+L 123.605625 105.48 
+z
+" style="fill: #faf8f9"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #766c73" x="123.605625" y="360.698281" transform="rotate(-0 123.605625 360.698281)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #766c73" x="276.965625" y="360.698281" transform="rotate(-0 276.965625 360.698281)">25%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #766c73" x="430.325625" y="360.698281" transform="rotate(-0 430.325625 360.698281)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #766c73" x="583.685625" y="360.698281" transform="rotate(-0 583.685625 360.698281)">75%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #766c73" x="737.045625" y="360.698281" transform="rotate(-0 737.045625 360.698281)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #302a2e" x="108.605625" y="170.879062" transform="rotate(-0 108.605625 170.879062)">Alfabetizado</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #302a2e" x="108.605625" y="292.559062" transform="rotate(-0 108.605625 292.559062)">Não alfabetizado</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 123.605625 143.2008 
+L 737.045625 143.2008 
+L 737.045625 189.4392 
+L 123.605625 189.4392 
+z
+" clip-path="url(#pf6f2ee3fca)" style="fill: #ebdce2; opacity: 0.5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 123.605625 264.8808 
+L 737.045625 264.8808 
+L 737.045625 311.1192 
+L 123.605625 311.1192 
+z
+" clip-path="url(#pf6f2ee3fca)" style="fill: #ebdce2; opacity: 0.5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 123.605625 143.2008 
+L 482.631987 143.2008 
+L 482.631987 189.4392 
+L 123.605625 189.4392 
+z
+" clip-path="url(#pf6f2ee3fca)" style="fill: #783650; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 123.605625 264.8808 
+L 378.019263 264.8808 
+L 378.019263 311.1192 
+L 123.605625 311.1192 
+z
+" clip-path="url(#pf6f2ee3fca)" style="fill: #c998ab; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #302a2e" x="494.900787" y="169.63125" transform="rotate(-0 494.900787 169.63125)">58,5%  ·  71.975 alunos</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #302a2e" x="390.288063" y="291.31125" transform="rotate(-0 390.288063 291.31125)">41,5%  ·  51.003 alunos</text>
+   </g>
+  </g>
+  <g id="text_10">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #783650" x="11.285625" y="16.439062" transform="rotate(-0 11.285625 16.439062)">ALFABETIZAÇÃO NO BRASIL</text>
+  </g>
+  <g id="text_11">
+   <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #302a2e" x="11.285625" y="52.889375" transform="rotate(-0 11.285625 52.889375)">Distribuição da alfabetização</text>
+  </g>
+  <g id="text_12">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #766c73" x="11.285625" y="81.351562" transform="rotate(-0 11.285625 81.351562)">Amostra de treino • 2023 • 122.978 alunos com avaliação válida</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #766c73" transform="translate(11.285625 407.14875)">Fonte: avaliações de alfabetização do Inep, via Base dos Dados.</text>
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #766c73" transform="translate(11.285625 419.508281)">Percentuais não ponderados da amostra de treino; não representam estimativas oficiais.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf6f2ee3fca">
+   <rect x="123.605625" y="105.48" width="613.44" height="243.36"/>
+  </clipPath>
+ </defs>
+</svg>
